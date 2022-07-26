@@ -15,4 +15,9 @@
         android:name="ru.dsvusial.catchat.HelpFragment"
         android:label="fragment_help"
         tools:layout="@layout/fragment_help" />
+    <fragment
+        android:id="@+id/sendItemsFragment"
+        android:name="ru.dsvusial.catchat.SendItemsFragment"
+        android:label="fragment_send_items"
+        tools:layout="@layout/fragment_send_items" />
 </navigation>
